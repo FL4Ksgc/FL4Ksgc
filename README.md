@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning **Java, Go etc.**
 
-- 📝 I regularly write articles on [fl4ksgc.com](fl4ksgc.com)
+- 📝 I regularly write articles on <a href="https://fl4ksgc.com">fl4ksgc.com</a>
 
 - 📫 How to reach me **m13687630216@163.com**
