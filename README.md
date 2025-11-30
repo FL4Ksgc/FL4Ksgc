@@ -1,8 +1,21 @@
-<h1 align="center">Hi 👋, I'm FL4Ksgc</h1>
-<h3 align="center">🎓 ​​Shandong University 👨‍💻 Software Engineering​​ '27</h3>
+### 🤓 About Me
 
-- 🌱 I’m currently learning **Java, Go etc.**
+Backend Developer | SDU Software Engineering '27
 
-- 📝 I regularly write articles on <a href="https://fl4ksgc.com">fl4ksgc.com</a>
+### 💼 Experience
 
-- 📫 How to reach me **m13687630216@163.com**
+- **Baidu** | Backend Development Intern
+  - *Current*
+- **Meituan** | Software Engineering Intern
+  - *Previous*
+
+### 🛠 Tech Stack
+
+- **Languages:** Java, Go
+- **Core:** Spring Boot, Spring AI, Microservices, Concurrency
+- **Infrastructure:** MySQL, Redis, ElasticSearch, Hadoop, Spark
+
+### 🔗 Connect
+
+- **Blog:** [fl4ksgc.com](https://fl4ksgc.com)
+- **Email:** [m13687630216@163.com](mailto:m13687630216@163.com)
