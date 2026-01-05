@@ -2,13 +2,6 @@
 
 Backend Developer | SDU Software Engineering '27
 
-### 💼 Experience
-
-- **Baidu** | Backend Development Intern
-  - *Current*
-- **Meituan** | Software Engineering Intern
-  - *Previous*
-
 ### 🛠 Tech Stack
 
 - **Languages:** Java, Python, Go
