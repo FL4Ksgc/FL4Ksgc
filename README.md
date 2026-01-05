@@ -5,8 +5,8 @@ Backend Developer | SDU Software Engineering '27
 ### 🛠 Tech Stack
 
 - **Languages:** Java, Python, Go
-- **Core:** Spring Boot, Spring AI
-- **Infrastructure:** MySQL, Redis, ElasticSearch, RocketMQ
+- **Core:** Spring, Spring Boot, Spring AI, Eino, LangChain
+- **Infrastructure:** MySQL, PostgreSQL, Redis, ElasticSearch, RocketMQ, Docker
 
 ### 🔗 Connect
 
